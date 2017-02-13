@@ -19,7 +19,7 @@ if  ch ==  1 :
 	print  "current time is  :  ",t.split()[3]
 
 elif  ch  ==  2 :
-	webbrowser.open_new_tab('http://www.google.com')
+	webbrowser.open_new_tab('https://github.com/redashu/gowith')
 
 elif  ch  ==  3 :
 	n1=input("enter  number 1 :  ")
